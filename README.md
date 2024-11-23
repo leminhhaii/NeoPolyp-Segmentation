@@ -4,8 +4,8 @@ You can put the model checkpoint in the same direct as "infer.py"
 
 Codes to run:
 
-git clone "https://github.com/leminhhaii/NeoPolyp-Segmentation.git"
+git clone https://github.com/leminhhaii/NeoPolyp-Segmentation.git
 
-cd "NeoPolyp-Segmentation"
+cd NeoPolyp-Segmentation
 
-python infer.py --image_path image.jpeg
+python3 infer.py --image_path image.jpeg
